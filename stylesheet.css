@@ -1,0 +1,38 @@
+
+
+body{
+  background: hsl(0, 100%, 74%) ;
+  font-family: Poppins;
+}
+
+.check{
+    height: 400px;
+    border-radius: 6px;
+}
+
+.p{
+    background-color:  hsl(248, 32%, 49%);
+    box-shadow: 0 6px 0 white;
+    border-radius: 6px;
+}
+.btn{
+    font-size: 16px;
+    background: hsl(154, 59%, 51%);
+
+}
+span{
+    color: red;
+}
+
+p{
+    color:hsl(246, 25%, 77%);
+    font-size: 16px
+}
+
+@media(max-width: 375px){
+.container{
+ position: absolute;
+ top:  10px;
+    }
+}
+
