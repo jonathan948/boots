@@ -12,7 +12,7 @@ body{
 
 .p{
     background-color:  hsl(248, 32%, 49%);
-    box-shadow: 0 6px 0 white;
+    box-shadow: 0px 5px 5px hsl(248, 32%, 49%);
     border-radius: 6px;
 }
 .btn{
